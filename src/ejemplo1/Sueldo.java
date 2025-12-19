@@ -17,7 +17,7 @@ public class Sueldo {
 		
 		//Datos de salida
 		
-		//nueva instruccion
+		//nueva instr
 		//ZONA DE INSTRUCCIONES
 		//Simulamos leer dato de entrada
 		System.out.println("Por favor, introduce el sueldo");
